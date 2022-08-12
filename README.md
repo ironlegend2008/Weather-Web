@@ -3,8 +3,8 @@
 <br/>
 <br/>
 
-`This app fetches the weather conditons of any city across the world &
-keeps updating the weather conditons time to time according to the current weather conditions of that city.
+`This app fetches the weather conditions of any city across the world &
+keeps updating the weather conditions time to time according to the current weather conditions of that city.
 `
 <br/>
 <br/>
