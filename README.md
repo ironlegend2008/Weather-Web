@@ -9,4 +9,4 @@ keeps updating the weather conditons time to time according to the current weath
 <br/>
 <br/>
 <br/>
-Live demo: (seal-app-yzmyi.ondigitalocean.app)
+Live demo: ([seal-app-yzmyi.ondigitalocean.app](https://seal-app-yzmyi.ondigitalocean.app/)https://seal-app-yzmyi.ondigitalocean.app/)
